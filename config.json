@@ -1,0 +1,29 @@
+{
+  "name": "苹果短信自动化",
+  "version": "1.0.0",
+  "description": "苹果手机短信模拟发送系统",
+  "env_variables": [
+    {
+      "key": "TENCENT_SECRET_ID",
+      "description": "腾讯云API SecretId",
+      "required": true
+    },
+    {
+      "key": "TENCENT_SECRET_KEY",
+      "description": "腾讯云API SecretKey",
+      "required": true
+    },
+    {
+      "key": "USER_PHONE",
+      "description": "用户手机号",
+      "required": false,
+      "default": "13800138000"
+    },
+    {
+      "key": "SMS_CONTENT",
+      "description": "短信内容",
+      "required": false,
+      "default": "测试消息"
+    }
+  ]
+}
