@@ -3,6 +3,9 @@
   "version": "1.32.0",
   "description": "利用Mac序列号机群模拟手机发送短信，¥299买断终身使用",
   "pricing": "¥299一次性买断",
+  "demo_url": "https://skill.600.im",
+  "contact": "定制Skill欢迎联系: https://skill.600.im",
+  "features": 36,
   "env_variables": [
     {"key": "TENCENT_SECRET_ID", "description": "腾讯云API SecretId", "required": true},
     {"key": "TENCENT_SECRET_KEY", "description": "腾讯云API SecretKey", "required": true},
