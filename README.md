@@ -1,4 +1,4 @@
-# appleimages v1.32
+# Apple-message v1.32
 
 Bulk SMS automation tool. Uses Mac serial number clusters to simulate phone SMS sending. Import serials → auto-assign virtual devices → batch send → log timestamps → real-time Apple ban detection.
 
